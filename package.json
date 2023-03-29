@@ -1,0 +1,22 @@
+{
+  "name": "djs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikewashereGH/DJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikewashereGH/DJS/issues"
+  },
+  "homepage": "https://github.com/mikewashereGH/DJS#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
